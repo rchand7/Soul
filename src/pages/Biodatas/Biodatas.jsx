@@ -144,7 +144,7 @@ const Biodatas = () => {
                             className="w-full border rounded p-2 text-blue-600 border-blue-600 bg-white"
                         >
                             <option value="">Select a division</option>
-                            <option value="Dhaka">Dhaka</option>
+                            <option value="Delhi">Delhi</option>
                             <option value="Chattogram">Chattogram</option>
                             <option value="Rangpur">Rangpur</option>
                             <option value="Barisal">Barisal</option>

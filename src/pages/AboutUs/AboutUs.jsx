@@ -24,7 +24,7 @@ const AboutUs = () => {
                     transition={{ duration: 0.5 }}
                 >
                     <Title level={1} className="text-center text-blue-800">Welcome to SoulConnect</Title>
-                    <Paragraph className="text-center text-lg text-blue-600 mb-6">Connecting hearts, building futures, and celebrating love through a Shariah-based matrimonial platform.</Paragraph>
+                    <Paragraph className="text-center text-lg text-blue-600 mb-6">Connecting hearts, building futures, and celebrating love through a heart-based matrimonial platform.</Paragraph>
                     <div className="grid grid-cols-1 md:grid-cols-2 gap-8">
                         <div className='flex justify-center items-center'>
                             <img src={logo} alt="SoulConnect" className="w-full rounded-lg shadow-md" />
@@ -53,10 +53,10 @@ const AboutUs = () => {
                     </div>
                     <div className="contact-details mt-12 p-6 bg-blue-50 rounded-lg shadow-md">
                         <Title level={2} className="text-blue-800">Contact Details</Title>
-                        <Paragraph><span className="font-bold">Address:</span> 5/25/Ga Outer Stadium, Mymensingh, Bangladesh.</Paragraph>
+                        <Paragraph><span className="font-bold">Address:</span> Greater Noida, U.P</Paragraph>
                         <Paragraph><span className="font-bold">Trade License No:</span> 2021-02693</Paragraph>
-                        <Paragraph><span className="font-bold">Contact Number:</span> +880 9613-820303</Paragraph>
-                        <Paragraph><span className="font-bold">Email:</span> <a href="mailto:support@soulconnect.com" className="text-blue-700">support@soulconnect.com</a></Paragraph>
+                        <Paragraph><span className="font-bold">Contact Number:</span> +91 8076708261</Paragraph>
+                        <Paragraph><span className="font-bold">Email:</span> <a href="mailto:thakurarjun5956@gmail.com" className="text-blue-700">thakurarjun5956@gmail.com</a></Paragraph>
                     </div>
                 </motion.div>
             </div>
