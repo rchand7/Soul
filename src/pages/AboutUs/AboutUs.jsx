@@ -23,7 +23,7 @@ const AboutUs = () => {
                     animate={{ opacity: 1, y: 0 }}
                     transition={{ duration: 0.5 }}
                 >
-                    <Title level={1} className="text-center text-blue-800">Welcome to SoulConnect</Title>
+                    <Title level={1} className="text-center text-blue-800">Welcome to HeartConnect</Title>
                     <Paragraph className="text-center text-lg text-blue-600 mb-6">Connecting hearts, building futures, and celebrating love through a heart-based matrimonial platform.</Paragraph>
                     <div className="grid grid-cols-1 md:grid-cols-2 gap-8">
                         <div className='flex justify-center items-center'>
@@ -31,7 +31,7 @@ const AboutUs = () => {
                         </div>
                         <div>
                             <Title level={3} className="text-blue-700">Our Mission</Title>
-                            <Paragraph>At SoulConnect, we believe that marriage is a sacred bond and a vital Sunnah of the God (ﷺ). Our mission is to facilitate this noble tradition by providing a platform that aligns with Islamic values and principles. We strive to make the process of finding a life partner easy, respectful, and enriching for all our users.</Paragraph>
+                            <Paragraph>At SoulConnect, we believe that marriage is a sacred bond and a vital love of the God . Our mission is to facilitate this noble tradition by providing a platform that aligns with Hindu values and principles. We strive to make the process of finding a life partner easy, respectful, and enriching for all our users.</Paragraph>
                             <Title level={3} className="text-blue-700">Why Choose SoulConnect?</Title>
                             <Paragraph>We understand the challenges of modern life and the importance of finding a compatible partner who shares your values and beliefs. SoulConnect is designed to address these needs by offering:</Paragraph>
                             <ul className="list-disc pl-5 text-blue-700">
