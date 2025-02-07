@@ -5,7 +5,7 @@ import { useEffect, useCallback } from "react";
 
 // Create an axios instance
 const axiosSecure = axios.create({
-    baseURL: 'https://b9a12-server-side-mdsabbiralmamon.vercel.app',
+    baseURL: 'https://arjunmatrimonial7.netlify.app/',
     withCredentials: true
 });
 
