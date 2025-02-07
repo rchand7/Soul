@@ -31,14 +31,14 @@ const AboutUs = () => {
                         </div>
                         <div>
                             <Title level={3} className="text-blue-700">Our Mission</Title>
-                            <Paragraph>At SoulConnect, we believe that marriage is a sacred bond and a vital Sunnah of the Prophet (ﷺ). Our mission is to facilitate this noble tradition by providing a platform that aligns with Islamic values and principles. We strive to make the process of finding a life partner easy, respectful, and enriching for all our users.</Paragraph>
+                            <Paragraph>At SoulConnect, we believe that marriage is a sacred bond and a vital Sunnah of the God (ﷺ). Our mission is to facilitate this noble tradition by providing a platform that aligns with Islamic values and principles. We strive to make the process of finding a life partner easy, respectful, and enriching for all our users.</Paragraph>
                             <Title level={3} className="text-blue-700">Why Choose SoulConnect?</Title>
                             <Paragraph>We understand the challenges of modern life and the importance of finding a compatible partner who shares your values and beliefs. SoulConnect is designed to address these needs by offering:</Paragraph>
                             <ul className="list-disc pl-5 text-blue-700">
                                 <li>Secure and private matchmaking</li>
                                 <li>Profiles verified for authenticity</li>
                                 <li>User-friendly interface with advanced search options</li>
-                                <li>Guidance and support based on Islamic principles</li>
+                                <li>Guidance and support based on Hindu principles</li>
                             </ul>
                             <Title level={3} className="text-blue-700 mt-4">Join Us Today</Title>
                             <Paragraph>Embark on your journey to find a life partner with SoulConnect. We are here to support you every step of the way, ensuring your experience is positive and fruitful. Sign up now and become part of our growing community dedicated to building meaningful connections.</Paragraph>
